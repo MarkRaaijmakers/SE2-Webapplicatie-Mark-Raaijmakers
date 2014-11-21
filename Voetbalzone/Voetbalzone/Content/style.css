@@ -1,0 +1,7 @@
+﻿body {
+}
+#banner {
+    background-image: url('../Images/bg-header.jpg');
+    background-color: green;
+    height: 147px;
+}

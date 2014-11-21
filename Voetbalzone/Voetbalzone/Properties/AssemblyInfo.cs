@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SE2_Voetbalzone_Mark_Raaijmakers")]
+[assembly: AssemblyTitle("Voetbalzone")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SE2_Voetbalzone_Mark_Raaijmakers")]
+[assembly: AssemblyProduct("Voetbalzone")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4b13f7a1-2a10-48c9-9dc7-6c205b2d2487")]
+[assembly: Guid("0f67fec1-2409-43fe-bd0d-11ae5bc3dc95")]
 
 // Version information for an assembly consists of the following four values:
 //
